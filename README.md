@@ -87,7 +87,7 @@ scipy.stats (chi-square tests, correlations)
 📁 Student-Mental-Health-Analytics/
 ├── 📊 Data_Analytics_Project.ipynb     # Complete analysis notebook
 ├── 📈 students_mental_health_survey.xlsx  # Dataset (7,022 records)
-├── 📄 Student-Mental-Health-Final-Report.docx  # Comprehensive report
+├── 📄 Student-Mental-Health-Report.pdf  # Comprehensive report
 └── 📖 README.md                        # This file
 ```
 
